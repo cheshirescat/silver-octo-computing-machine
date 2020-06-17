@@ -1,5 +1,4 @@
 <!DOCTYPE html> 
-<!-- <p>the only form that matters</p> -->
 <html>
   <head>
   <body>
@@ -9,8 +8,16 @@
     <option value="girls">girls.</option>
   . <option value="gorls">gorls.</option>
   </select>
-    </form>
+  <br><br>
+     <label for="life">what is the meaning of life?</label>
+  <select id="life" name="life">
+    <option value="42">42</option>
+    <option value="gator">get paid
+    <br>
+    get laid
+    <br>
+    gatorade</option>
+     </form>
   </body>
   </head>
 </html>
-
